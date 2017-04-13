@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+4/13/17
 
 ### Student Name:  
-(First and Last Name)
+Hunter Bowan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches the use of API's and Ajax calls
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hunterbowan.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use a Get request in AJax to retrieve data
+2. The ability to asynchronously call a command and not having the page reload
+3. Use of JSON for objects and having attributes
